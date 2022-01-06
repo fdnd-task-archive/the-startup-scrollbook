@@ -1,6 +1,6 @@
 # ScrollBook
 
-![ScrollBook]()
+![ScrollBook](https://github.com/fdnd-task/the-startup-scrollbook/blob/cbd43c0fe60f97f8f9715fed8e85443dfc48d3ed/docs/scrollbook.png)
 
 ## Context
 Deze leertaak hoort bij sprint The Startup. Dit is een autonomous leertaak die je individueel uitvoert voor ScrollBook.
